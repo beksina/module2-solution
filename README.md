@@ -1,2 +1,2 @@
 # module2-solution
-Coursera module2 assignment
+Coursera Web Dev
